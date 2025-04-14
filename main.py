@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import sqlite3
-from data_loader import geocode_address  # Reuse the existing geocoding function
+#from data_loader import geocode_address  # Reuse the existing geocoding function
 
 # --- Data Loading and Caching ---
 @st.cache_data
