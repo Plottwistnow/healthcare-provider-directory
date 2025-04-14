@@ -35,6 +35,7 @@ def load_provider_data():
 
 # Load data
 providers_df = load_provider_data()
+providers_df = providers_df.head(10000)
 
 # --- Sidebar Filters ---
 st.sidebar.header("Filter Providers")
