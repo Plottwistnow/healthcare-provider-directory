@@ -1,4 +1,4 @@
-# Healthcare Provider Directory
+# 🏥 Healthcare Provider Directory
 
 Welcome to the **Healthcare Provider Directory** – where finding a doctor is as easy as ordering your favorite pizza (only healthier)! This web application, built with Streamlit, aggregates data from CMS and health plan APIs to let you search for providers, filter by specialty/location/insurance, view interactive maps, and analyze network adequacy (that’s provider coverage vs. population).
 
